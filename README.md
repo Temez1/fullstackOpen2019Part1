@@ -1,4 +1,5 @@
 lähtee käyntiin komennolla npm start. Lyhyt demonstraatio reactin komponenteista, hookeista ja js perusteista.
+Koko kurssi löytyy [täältä](https://github.com/Temez1/fullstackOpen2019)
 
 ### `npm start`
 
