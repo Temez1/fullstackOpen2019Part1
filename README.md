@@ -1,5 +1,4 @@
-Lyhyt demonstraatio reactin komponenteista, hookeista ja js perusteista. <br>
-Koko kurssi löytyy [täältä](https://github.com/Temez1/fullstackOpen2019)
+Lyhyt demonstraatio reactin komponenteista, hookeista ja js perusteista.
 
 ### `npm start`
 
